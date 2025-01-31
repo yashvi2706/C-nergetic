@@ -1,0 +1,2 @@
+run command: gcc test.c f_string.c -o test
+             ./test

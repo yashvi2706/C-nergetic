@@ -1,0 +1,201 @@
+Hotels List
+
+
+Mumbai:
+
+1. The Oberoi Mumbai
+Address: Apollo Bunder, Mumbai 400001
+Known for its luxurious service and ocean views.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+2. The Taj Mahal Palace
+Address: Apollo Bunder, Mumbai 400001
+A historic landmark offering opulent accommodations.
+Rating : ⭐️⭐️⭐️⭐️
+
+Address: Nariman Point, Mumbai 400021
+Offers a stunning view of Marine Drive with excellent amenities.
+Rating : ⭐️⭐️⭐️
+
+
+Delhi:
+
+
+1. The Manor
+Address: Friends Colony, New Delhi 110065
+A boutique luxury hotel offering a tranquil stay with personalized services and a cozy atmosphere.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+2. Svelte Hotel & Personal Suites
+Address: Saket, New Delhi 110017
+A modern, boutique hotel offering a blend of comfort and elegance, with spacious rooms and great service.
+Rating : ⭐️⭐️⭐️⭐️
+
+3. Bloomrooms
+Address: New Delhi 110027
+A simple yet stylish boutique hotel with minimalist interiors and a focus on comfort and convenience.
+Rating : ⭐️⭐️⭐️
+
+
+Bangalore:
+
+
+1. The Oterra 
+Address: 43 Electronic City, Phase 1, Hosur Road, Bengaluru 560100
+A luxurious 5-star hotel offering modern amenities, ideal for both business and leisure travelers, located in the heart of Electronic City.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+2. Radisson Blu Bangalore Outer Ring Road:
+Address: 4/1, Kadubeesanahalli, Outer Ring Road, Bengaluru 560103
+A stylish hotel offering spacious rooms and premium amenities, perfect for business and leisure, located near key business districts.
+Rating : ⭐️⭐️⭐️⭐️
+
+3. The Park Bangalore
+Address: MG Road, Bangalore 560001
+A chic and contemporary boutique hotel known for its stylish décor and top-notch service.
+Rating : ⭐️⭐️⭐️
+
+Kolkata:
+
+
+1. The Peerless Inn
+Address: Jawaharlal Nehru Road, Kolkata 700013
+A charming, boutique hotel offering great hospitality in a centrally located area.
+Rating : ⭐️⭐️⭐️⭐️
+
+2. The Elgin Fairlawn Hotel
+Address: Sudder Street, Kolkata 700016
+A colonial-style boutique hotel with vintage decor, offering a unique Kolkata experience.
+Rating : ⭐️⭐️⭐️⭐️
+
+3. The Park Kolkata
+Address: Park Street, Kolkata 700016
+A luxury boutique hotel blending modern comfort with Kolkata’s rich culture and heritage.
+Rating : ⭐️⭐️⭐️
+
+
+Chennai:
+
+
+1. The Savera Hotel
+Address: Mylapore, Chennai 600004
+A boutique hotel offering a blend of modern luxury with traditional South Indian hospitality.
+Rating : ⭐️⭐️⭐️⭐️
+
+2. Radha Regent
+Address: Arumbakkam, Chennai 600106
+A small, upscale hotel with stylish interiors and excellent customer service.
+Rating : ⭐️⭐️⭐️
+
+3. Avenue 11 Boutique Residency
+Address: T. Nagar, Chennai 600017
+A charming boutique hotel offering a peaceful, cozy environment with elegant interiors.
+Rating : ⭐️⭐️⭐️
+
+
+Udaipur : 
+
+1. The Oberoi Udaivilas
+Address: Lake Pichola, Udaipur 313001
+Known for its palatial design and scenic views of Lake Pichola and the City Palace.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+2. Taj Lake Palace
+Address: Lake Pichola, Udaipur 313001
+A former royal palace turned into a luxury hotel, offering a romantic experience on the lake.
+Rating : ⭐️⭐️⭐️⭐️
+
+3. Trident Udaipur
+Address: Haridasji Ki Magri, Udaipur 313001
+Set amidst beautiful gardens, with serene views of Lake Pichola and excellent dining options.
+Rating : ⭐️⭐️⭐️
+
+
+Ahmedabad :
+
+1. Novotel Ahmedabad
+Address: Satellite, Ahmedabad, Gujarat 380015
+Offers stylish rooms and world-class amenities, ideal for both business and leisure.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+2. Hyatt Regency Ahmedabad
+Address: Ashram Road, Ahmedabad, Gujarat 380014
+Located near the Sabarmati River, this hotel offers a blend of luxury and convenience.
+Rating : ⭐️⭐️⭐️⭐️
+
+3. The House of MG
+Address: Lal Darwaja, Ahmedabad, Gujarat 380001
+A heritage hotel with a colonial touch.
+Rating : ⭐️⭐️⭐️
+
+
+Jaipur :
+
+1. The Oberoi Rajvilas
+Address: Goner Road, Jaipur, Rajasthan 302031
+An opulent resort offering a royal experience.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+2. Rajmahal Palace RAAS Jaipur
+Address: Amer Road, Jaipur, Rajasthan 302002
+A historic palace turned hotel, blending regal Rajasthani charm with modern luxury.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+3. ITC Rajputana
+Address: Palace Road, Jaipur, Rajasthan 302006
+Offers sophisticated accommodation with a touch of Rajasthani heritage.
+Rating : ⭐️⭐️⭐️⭐️
+
+
+Goa :
+
+1. Taj Exotica Resort & Spa
+Address: Benaulim, South Goa, Goa 403716
+A luxurious resort perfect for a relaxing getaway.
+Rating : ⭐️⭐️⭐️⭐️⭐️
+
+2. Grand Hyatt Goa, Bambolim Bay
+Address: Goa University, Bambolim, Goa 403206
+This beachfront resort provides upscale accommodations.
+Rating : ⭐️⭐️⭐️⭐️
+
+3. Planet Hollywood Beach Resort
+Address: Utorda Beach, South Goa, Goa 403713
+Offers modern amenities with a focus on relaxation and entertainment.
+Rating : ⭐️⭐️⭐️⭐️
+
+
+Manali :
+
+1. Larisa Resort Manali
+Address: Kullu-Manali Highway, Manali, Himachal Pradesh 175131
+Nestled in the scenic surroundings of Manali, it offers panoramic views of the mountains.
+Rating : ⭐️⭐️⭐️⭐️
+
+2. The Whitestone Resorts
+Address: Hamta Road, Manali, Kullu, Himachal Pradesh
+This resort is set in the Prini hills, offering a peaceful escape with scenic views.
+Rating : ⭐️⭐️⭐️
+
+3. White Meadows by Club Mahindra
+Address: Naggar Highway, Manali, Himachal Pradesh - 175131
+Located amidst lush greenery, this resort provides excellent facilities.
+Rating : ⭐️⭐️
+
+
+Hyderabad
+
+1. Trident Hyderabad
+Address: Madhapur, Hyderabad, Telangana 500081
+Situated in the heart of Hyderabad's business hub with easy access to key commercial areas.
+Rating : ⭐️⭐️⭐️⭐️
+
+2. Le Meridien Hyderabad
+Address: Sardar Patel Road, Hyderabad, Telangana 500082
+A luxurious retreat offering exceptional amenities.
+Rating : ⭐️⭐️⭐️⭐️
+
+3. Sheraton Hyderabad Hotel
+Address: Sri Tirumala Tech Park, Hyderabad, Telangana 500032
+An upscale hotel ideal for business travelers.
+Rating : ⭐️⭐️⭐️

@@ -1,0 +1,31 @@
+index,hotel_name,city,deluxe_room_price,single_room_price,super_deluxe_price,luxury_price,rating,location,description
+1,The Oberoi Mumbai,Mumbai,25000,18000,55000,35000,5.0,Apollo Bunder 400001,Known for its luxurious service and ocean views.
+2,The Taj Mahal Palace,Mumbai,24500,17000,50000,36000,4.5,Apollo Bunder,A historic landmark offering opulent accommodations.
+3,Trident Hotel,Mumbai,24750,17500,50000,34000,4.0,Nariman Point,Offers a stunning view of Marine Drive with excellent amenities.
+1,The Manor,Delhi,10000,8000,20000,15000,5.0,Friends Colony,A boutique luxury hotel offering a tranquil stay with personalized services and a cozy atmosphere.
+2,Svelte Hotel & Personal Suites,Delhi,11000,8500,19000,14000,4.5,Saket,A modern boutique hotel offering a blend of comfort and elegance, with spacious rooms and great service.
+3,Bloomrooms,Delhi,10500,7000,18000,13000,4,Paharganj,A simple yet stylish boutique hotel with minimalist interiors and a focus on comfort and convenience.
+1,The Oterra,Bangalore,15000,12000,25000,20000,5.0,43 Electronic City-Phase 1,A luxurious 5-star hotel offering modern amenities ideal for both business and leisure travelers located in the heart of Electronic City.
+2,Radisson Blu,Bangalore,14500,11000,26000,19500,5.0, Outer Ring Road,A stylish hotel offering spacious rooms and premium amenities perfect for business and leisure located near key business districts.
+3,The Park Bangalore,Bangalore,15000,12000,24000,19000,4.5,MG Road,A chic and contemporary boutique hotel known for its stylish décor and top-notch service.
+1,The Peerless Inn,Kolkata,10000,7000,15000,12000,5.0,Jawaharlal Nehru Road,A charming boutique hotel offering great hospitality in a centrally located area.
+2,The Elgin Fairlawn Hotel,Kolkata,11000,7500,14500,12000,4.5,Sudder Street,A colonial-style boutique hotel with vintage decor offering a unique Kolkata experience.
+3,The Park Kolkata,Kolkata,9500,7000,15000,11500,4.0,Park Street,A luxury boutique hotel blending modern comfort with Kolkata’s rich culture and heritage.
+1,The Savera Hotel,Chennai,12000,8000,20000,17000,5.0,Mylapore,A boutique hotel offering a blend of modern luxury with traditional South Indian hospitality.
+2,Radha Regent,Chennai,11500,7500,19000,15000,4.5,Arumbakkam,A small upscale hotel with stylish interiors and excellent customer service.
+3,Avenue 11 Boutique Residency,Chennai,11000,8000,19500,16000,4.0,T. Nagar,A charming boutique hotel offering a peaceful cozy environment with elegant interiors.
+1,The Oberoi Udaivilas,Udaipur,90000,75000,100000,95000,5.0,Lake Pichola,Known for its palatial design and scenic views of Lake Pichola and the City Palace.
+2,Taj Lake Palace,Udaipur,85000,87000,95000,90000,5.0,Lake Pichola,A former royal palace turned into a luxury hotel offering a romantic experience on the lake.
+3,Trident,Udaipur,88000,80000,93000,97000,4.5,Haridasji Ki Magri,Set amidst beautiful gardens with serene views of Lake Pichola and excellent dining options.
+1,Novotel,Ahmedabad,13000,10500,20000,17500,5.0,Satellite,Offers stylish rooms and world-class amenities ideal for both business and leisure.
+2,Hyatt Regency,Ahmedabad,12000,10000,19000,14000,4.5,Ashram Road,Located near the Sabarmati River this hotel offers a blend of luxury and convenience.
+3,The House of MG,Ahmedabad,12500,10500,18000,15000,4.5,Lal Darwaja,A heritage hotel with a colonial touch.
+1,Taj Exotica Resort & Spa,Goa,32000,27000,50000,44000,5.0,Benaulim,A luxurious resort perfect for a relaxing getaway.
+2,Grand Hyatt,Goa,31500,26000,49000,42000,4.5,Bambolim,This beachfront resort provides upscale accommodations.
+3,Planet Hollywood Beach Resort,Goa,30000,26500,48000,40000,4.5,Utorda Beach,Offers modern amenities with a focus on relaxation and entertainment.
+1,Larisa Resort,Manali,14000,10000,19500,17000,5.0,Kullu-Manali Highway,It offers panoramic views of the mountains.
+2,The Whitestone Resorts,Manali,13500,9500,20000,16000,4.5, Hamta Road,This resort is set in the Prini hills offering a peaceful escape with scenic views.
+3,White Meadows by Club Mahindra,Manali,13000,9500,18000,16500,4.0, Naggar Highway,Located amidst lush greenery this resort provides excellent facilities.
+1,Trident,Hyderabad,15000,12000,22000,19000,5.0,Madhapur,Situated in the heart of Hyderabad's business hub with easy access to key commercial areas.
+2,Le Meridien,Hyderabad,14500,11000,23000,17000,4.5,Sardar Patel Road,A luxurious retreat offering exceptional amenities.
+3,Sheraton Hotel,Hyderabad,14000,11500,21000,17500,4.0,Sri Tirumala Tech Park,An upscale hotel ideal for business travelers.

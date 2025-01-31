@@ -1,0 +1,7 @@
+run command: gcc test.c f_string.c -o test
+             ./test
+
+            gcc MAIN/login.c Code_Snippets/String_Alignment/f_string.c Code_Snippets/Star_ratings/rating.c -o test/login
+            gcc MAIN/Billing.c Code_Snippets/String_Alignment/f_string.c Code_Snippets/Star_ratings/rating.c -o test/billing
+            gcc MAIN/admin.c Code_Snippets/String_Alignment/f_string.c Code_Snippets/Star_ratings/rating.c -o test/admin
+	gcc Registration/admin.c Code_Snippets/String_Alignment/f_string.c Code_Snippets/Star_ratings/rating.c -o test/admin
