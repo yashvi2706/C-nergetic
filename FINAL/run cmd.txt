@@ -1,0 +1,19 @@
+MUST RUN ALL OF THEM TOGETHER
+
+gcc Login.c f_string.c -o login
+gcc Registration.c f_string.c -o registration
+gcc Admin.c f_string.c -o admin
+gcc Main.c f_string.c -o main
+gcc ViewPage.c f_string.c -o viewpage
+gcc user_page.c f_string.c -o userpage
+gcc selection.c f_string.c -o selection
+gcc Billing.c f_string.c -o billing
+
+rm login.exe
+rm admin.exe
+rm registration.exe
+rm main.exe
+rm viewpage.exe
+rm userpage.exe
+rm selection.exe
+rm billing.exe
