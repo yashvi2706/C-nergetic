@@ -1,5 +1,5 @@
 # C-nergetic 
-<li>https://github.com/macwandarell/C-nergetic</li>
+<li>https://github.com/yashvi2706/C-nergetic</li>
 <h2>Team:</h2>
 <li> Karan Mansuria <strong>(BT2024104)</strong></li>
 <li> Yashvi Mehta <strong>(BT2024136)</strong></li>
